@@ -19,8 +19,7 @@ Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
 <br />
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/NIcolasp14?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIcolasp14&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/NIcolasp14?tab=repositories) |
-|:-:|:-:|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIcolasp14&layout=compact)](https://github.com/NIcolasp14/github-readme-stats)
 <!--
 **NIcolasp14/NIcolasp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
