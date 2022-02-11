@@ -1,7 +1,9 @@
 ## Hi  
+<img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="280px" alt="animated"/>
 <p><img align="right" alt="gif" src=https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif  /></p> 
 <!--
 <p><img align="right" alt="gif" src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" /></p> 
+<p><img align="right" alt="gif" src=https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif  /></p> 
 -->
 This is Nicolas. <br />
 I am an ece student at NTUA with main focus on computer engineering.  <br />
