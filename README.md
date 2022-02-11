@@ -1,5 +1,8 @@
 ## Hi  
+<p><img align="right" alt="gif" src=https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif  /></p> 
+<!--
 <p><img align="right" alt="gif" src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" /></p> 
+-->
 This is Nicolas. <br />
 I am an ece student at NTUA with main focus on computer engineering.  <br />
 My interests at the moment are: Machine Learning, Algorithms and Software Engineering.  <br />
