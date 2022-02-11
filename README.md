@@ -1,7 +1,7 @@
 ## Hi  
 <p><img align="right" alt="gif" src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" /></p> 
 This is Nicolas. <br />
-I am an ece student at NTUA with a main focus in computer engineering.  <br />
+I am an ece student at NTUA with main focus on computer engineering.  <br />
 <br />
 Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com
