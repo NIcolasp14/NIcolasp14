@@ -4,7 +4,7 @@ This is Nicolas. <br />
 I am an ece student at NTUA with a main focus in computer engineering.  <br />
 <br />
 Ask me about anything you think I might be able to help with. <br />
-How to reach me: [nicolaspigadas14@gmail.com](mailto:nicolaspigadas14@gmail.com)
+How to reach me: nicolaspigadas14@gmail.com
 
 <!--
 **NIcolasp14/NIcolasp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
