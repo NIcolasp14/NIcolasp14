@@ -10,8 +10,7 @@
 <p><img align="right" alt="gif" src=https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif  /></p> 
 -->
 This is Nicolas. <br />
-I am an ece student at NTUA with main focus on computer engineering.  <br />
-My interests at the moment are:  <br />
+I am an ece student at NTUA with main focus on computer engineering. My interests at the moment are:  <br />
 - Machine Learning  <br />
 - Algorithms   <br />
 - Software Engineering  <br />
