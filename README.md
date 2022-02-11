@@ -1,6 +1,9 @@
 ## Hi  
 <p><img align="right" alt="gif" src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" /></p> 
-This is Nicolas. 
+This is Nicolas. I am an ece student at NTUA with a main focus in computer engineering.
+
+Ask me about anything you think I might be able to help with.  
+How to reach me: [nicolaspigadas14@gmail.com](mailto:nicolaspigadas14@gmail.com)
 
 <!--
 **NIcolasp14/NIcolasp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
