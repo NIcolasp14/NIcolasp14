@@ -23,7 +23,6 @@ How to reach me: nicolaspigadas14@gmail.com  <br />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-SHOW_LINES_OF_CODE=true%20Lines%20of%20code-blue)
 <!--
 **NIcolasp14/NIcolasp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
