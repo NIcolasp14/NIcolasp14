@@ -1,6 +1,5 @@
 ### Hi  
-<img src="https://giphy.com/gifs/neon-eye-explode-DjQZeqf3HqAQBqu45D/giphy.gif" align="right" width="280px" alt="animated"/>
-<iframe src="https://giphy.com/embed/DjQZeqf3HqAQBqu45D" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/neon-eye-explode-DjQZeqf3HqAQBqu45D">via GIPHY</a></p>
+<p><img align="right" alt="gif" src="https://giphy.com/gifs/neon-eye-explode-DjQZeqf3HqAQBqu45D/giphy.gif" /></p> 
 
 
 <!--
