@@ -9,8 +9,8 @@
 This is Nicolas. <br />
 I am an ece student at NTUA with main focus on computer engineering.  <br />
 My interests at the moment are:  <br />
-- Machine Learning
-- Algorithms 
+- Machine Learning  
+- Algorithms   
 - Software Engineering.  <br />
 <br />
 Ask me about anything you think I might be able to help with. <br />
