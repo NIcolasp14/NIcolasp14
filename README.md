@@ -21,7 +21,7 @@ Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
 <br />
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
 
