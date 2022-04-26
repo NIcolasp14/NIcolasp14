@@ -24,7 +24,7 @@ How to reach me: nicolaspigadas14@gmail.com  <br />
 
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html,css&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
 
