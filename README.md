@@ -1,7 +1,7 @@
 ## Hi 👽
-<p> 
+
 <img src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" align="right" width="400px" alt="animated"/>
-</p> 
+
 <!--
 <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="275px" alt="animated"/>
 
