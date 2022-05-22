@@ -1,8 +1,8 @@
 ## Hi 👽
 
 <img 
-     src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" 
      align="right" 
+     src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" 
      width="400px" 
      alt="animated"
 />
