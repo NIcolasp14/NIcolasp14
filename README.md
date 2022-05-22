@@ -1,6 +1,6 @@
 ## Hi 👽
 
-<img src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" align="center" width="400px" alt="animated"/>
+<img src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" align="right" width="400px" alt="animated"/>
 
 <!--
 <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="275px" alt="animated"/>
@@ -21,7 +21,7 @@ My interests at the moment are:  <br />
 - Algorithms   <br />
 - Software Engineering  <br />  
 
-
+<img src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" align="right" width="400px" alt="animated"/>
 Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
