@@ -12,7 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 -->
 This is Nicolas. <br />
-I am an ece student at NTUA, with main focus on computer engineering. My interests at the moment are:  <br />
+I am an ece student at NTUA, with main focus on computer engineering.   
+My interests at the moment are:  <br />
 - Machine Learning  <br />
 - Bioinformatics   <br />
 - Algorithms   <br />
