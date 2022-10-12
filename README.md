@@ -20,7 +20,7 @@ This is Nicolas. <br />
 I am an ece student at NTUA, with main focus on computer engineering.  
 
 My interests at the moment are:  <br />
-- Machine Learning  <br />
+- ML/DL  <br />
 - Bioinformatics   <br />
 - Algorithms   <br />
 - Software Engineering  <br />  
