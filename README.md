@@ -37,7 +37,6 @@ Top langs excluding Javascript, HTML, CSS, Jupyter Notebook, Assembly
 Top langs excluding Jupyter Notebook
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
 
 
