@@ -33,7 +33,7 @@ How to reach me: nicolaspigadas14@gmail.com  <br />
 
 <br />
 Top langs excluding Javascript,  HTML, CSS, Assembly
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html,css,&assemblylangs_count=10&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html,css,assembly&langs_count=10&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 Top langs excluding Javascript, HTML, CSS, Jupyter Notebooks, Assembly
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&langs_count=10&hide=javascript,html,css,assembly,jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 Top langs excluding Jupyter Notebooks
