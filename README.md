@@ -25,8 +25,8 @@ My interests at the moment are:  <br />
 - Algorithms   <br />
 - Software Engineering  <br />  
 
-Ask me about anything you think I might be able to help with. <br />
 For more info about me: https://github.com/NIcolasp14/Experience  <br />
+Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
 
