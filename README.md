@@ -30,6 +30,11 @@ For more info about me: https://github.com/NIcolasp14/Experience  <br />
 Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
+<p>
+	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
+	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
+	<img alt="Stars" src="https://img.shields.io/github/stars/NIcolasp14?color=yellow" />
+</p>
 
 <br />
 Top langs excluding Javascript,  HTML, CSS, Assembly
@@ -40,12 +45,6 @@ Top langs excluding Jupyter Notebooks
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&langs_count=10&hide=jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
-<br />
-<p>
-	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
-	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
-	<img alt="Stars" src="https://img.shields.io/github/stars/NIcolasp14?color=yellow" />
-</p>
 
 <!--
 **NIcolasp14/NIcolasp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
