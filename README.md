@@ -40,7 +40,11 @@ Top langs excluding Jupyter Notebooks
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&langs_count=10&hide=jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
-
+<p align="center">
+	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
+	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
+	<img alt="Stars" src="https://img.shields.io/github/stars/NIcolasp14?color=yellow" />
+</p>
 
 <!--
 **NIcolasp14/NIcolasp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
