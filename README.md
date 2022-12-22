@@ -36,8 +36,10 @@ ____________________________________________________
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
 	<img alt="Stars" src="https://img.shields.io/github/stars/NIcolasp14?color=yellow" />
+	____________________________________________________
+
 </p>
-____________________________________________________
+
 
 
 <br />
