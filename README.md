@@ -1,4 +1,5 @@
 ## Hi 👽
+____________________________
 <img 
      align="right" 
      src="https://github.com/NIcolasp14/NIcolasp14/blob/main/giphy.gif" 
@@ -32,7 +33,7 @@ How to reach me: nicolaspigadas14@gmail.com  <br />
 
 
 ____________________________________________________
-<br />
+
 <p align="center">
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
@@ -44,7 +45,7 @@ ____________________________________________________
 
 
 <br />
-____________________________________________________
+
 <p align="center"> Top langs excluding Javascript,  HTML, CSS, Assembly </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html,css,assembly&langs_count=10&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p align="center"> Top langs excluding Javascript, HTML, CSS, Jupyter Notebooks, Assembly </p>
