@@ -43,7 +43,7 @@ Top langs excluding Javascript, HTML, CSS, Jupyter Notebooks, Assembly
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&langs_count=10&hide=javascript,html,css,assembly,jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 Top langs excluding Jupyter Notebooks
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&langs_count=10&hide=jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
 
 
 <!--
