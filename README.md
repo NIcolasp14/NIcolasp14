@@ -30,7 +30,7 @@ For more info about me: https://github.com/NIcolasp14/Experience  <br />
 Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
-<p>img align="center"
+<p><img align="center"
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
 	<img alt="Stars" src="https://img.shields.io/github/stars/NIcolasp14?color=yellow" />
