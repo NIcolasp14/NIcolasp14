@@ -45,6 +45,7 @@ ____________________________________________________
 
 
 <br />
+____________________________________________________
 
 <p align="center"> Top langs excluding Javascript,  HTML, CSS, Assembly </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html,css,assembly&langs_count=10&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
