@@ -30,6 +30,7 @@ For more info about me: https://github.com/NIcolasp14/Experience  <br />
 Ask me about anything you think I might be able to help with. <br />
 How to reach me: nicolaspigadas14@gmail.com  <br />
 
+__________________________
 <p align="center">
 	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=NIcolasp14&color=yellow&style=flat&label=visitors" />
 	<img alt="Followers" src="https://img.shields.io/github/followers/NIcolasp14?color=yellow" />
@@ -38,6 +39,7 @@ How to reach me: nicolaspigadas14@gmail.com  <br />
 
 <br />
 
+__________________________
 <p align="center"> Top langs excluding Javascript,  HTML, CSS, Assembly </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&hide=javascript,html,css,assembly&langs_count=10&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p align="center"> Top langs excluding Javascript, HTML, CSS, Jupyter Notebooks, Assembly </p>
@@ -45,6 +47,7 @@ How to reach me: nicolaspigadas14@gmail.com  <br />
 <p align="center"> Top langs excluding Jupyter Notebooks </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIcolasp14&langs_count=10&hide=jupyter%20notebook&show_icons=true&theme=dark&locale=en&layout=compact" alt="NIcolasp14" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NIcolasp14&show_icons=true&theme=dark&locale=en" alt="lNIcolasp14" /></p>
+__________________________
 
 <!-- | [![Most used PLs](https://stats-github-readme.vercel.app/api/top-langs/?username=NIcolasp14&theme=highcontrast&langs_count=3&)](https://github.com/NIcolasp14?tab=repositories)
 | [![Most used PLs](https://stats-github-readme.vercel.app/api/top-langs/?username=NIcolasp14&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/NIcolasp14?tab=repositories) |
