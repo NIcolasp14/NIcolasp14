@@ -28,6 +28,7 @@ My interests at the moment are:  <br />
 in the fields of:
 - Bioinformatics   <br />
 - Autonomous driving   <br />
+- Synthetic Biology  <br />
 
 
 For more info about me: https://github.com/NIcolasp14/Experience  <br />
