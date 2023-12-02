@@ -23,12 +23,8 @@ I am an ece student at NTUA, with main focus on computer engineering.
 My interests at the moment are:  <br />
 - ML/DL (especially Graph ML and GNNs)  <br />
 - Algorithms   <br />
-- Software Engineering  <br />  
-
-in the fields of:
-- Bioinformatics   <br />
-- Autonomous driving   <br />
-- Synthetic Biology  <br />
+- Software Engineering  <br />
+- Bioinformatics, Synthetic Biology  <br />
 
 
 For more info about me: https://github.com/NIcolasp14/Experience  <br />
