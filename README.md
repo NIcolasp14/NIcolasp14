@@ -20,11 +20,12 @@ ____________________________
 This is Nicolas. <br />
 I am an ece student at NTUA, with main focus on computer engineering.  
 
-My interests at the moment are:  <br />
-- ML/DL (especially Graph ML and GNNs)  <br />
+My interests at the moment are: <br />
+- Geometric Deep Learning   <br />
+- Biomedical Engineering   <br />
+- Geometry Processing   <br />
 - Algorithms   <br />
-- Software Engineering  <br />
-- Bioinformatics, Synthetic Biology  <br />
+- Synthetic Biology   <br />
 
 
 For more info about me: https://github.com/NIcolasp14/Experience  <br />
